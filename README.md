@@ -7,7 +7,7 @@ Computer Science Student
 Hey there! I'm João Bettencourt, a 21-year-old computer science student currently in Leiria. Gaming captivated me, prompting a leap into programming. Exploring the code behind the pixels opened a new universe. 🎮💻
 
 * 🌍  I'm based in Leiria
-* 🚀  I'm currently working on [FM Solar Systems Website](https://github.com/JoaoBett/FM_SolarSystems)
+* 🚀  I'm currently working on my DevOps carreer
 * 🧠  I'm learning Javascript, Typescript and React
 * 🤝  I'm open to collaborating on Web Dev especially in backend
 * ⚡  I have an addiction to code and game
