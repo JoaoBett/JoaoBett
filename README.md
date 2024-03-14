@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer Science Student
 ------------------------
 
-Hey there! I'm João Bettencourt, a 21-year-old computer science student currently in Leiria. Gaming captivated me, prompting a leap into programming. Exploring the code behind the pixels opened a new universe. 🎮💻
+Hey there! I'm João Bettencourt, a 22-year-old computer science student currently in Leiria. Gaming captivated me, prompting a leap into programming. Exploring the code behind the pixels opened a new universe. 🎮💻
 
 * 🌍  I'm based in Leiria
 * 🚀  I'm currently working on my DevOps carreer
-* 🧠  I'm learning Javascript, Typescript and React
-* 🤝  I'm open to collaborating on Web Dev especially in backend
+* 🧠  I'm learning AWS, Software Development Methodology and Virtualization
+* 🤝  I'm open to collaborating on Automation projects
 * ⚡  I have an addiction to code and game
 
 ### Skills
