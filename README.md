@@ -7,9 +7,8 @@ Computer Science Student
 Hey there! I'm João Bettencourt, a 22-year-old computer science student currently in Leiria. Gaming captivated me, prompting a leap into programming. Exploring the code behind the pixels opened a new universe. 🎮💻
 
 * 🌍  I'm based in Leiria
-* 🚀  I'm currently working on my DevOps carreer
-* 🧠  I'm learning AWS, Software Development Methodology and Virtualization
-* 🤝  I'm open to collaborating on Automation projects
+* 🚀  I'm currently studying Computer Science in Leiria
+* 🧠  I'm learning AWS, Docker and in a Discord Bot
 * ⚡  I have an addiction to code and game
 
 ### Skills
