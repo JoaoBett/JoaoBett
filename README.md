@@ -1,15 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Joao Bettencourt
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Welcome to my profile
 ========================================================================================================================================
 
 Computer Science Student
 ------------------------
 
-Hey there! I'm João Bettencourt, a 22-year-old computer science student currently in Leiria. Gaming captivated me, prompting a leap into programming. Exploring the code behind the pixels opened a new universe. 🎮💻
-
 * 🌍  I'm based in Leiria
 * 🚀  I'm currently studying Computer Science in Leiria
-* 🧠  I'm learning AWS, Network+ and Security+ from CompTIA
-* ⚡  I have an addiction to code and game
 
 ### Skills
 
