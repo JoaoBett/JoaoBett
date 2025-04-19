@@ -5,7 +5,7 @@ Computer Science Student
 ------------------------
 
 * 🌍  I'm based in Leiria
-* 🚀  I'm currently studying Computer Science in Leiria
+* 🚀  I'm currently studying Computer Science
 
 ### Skills
 
